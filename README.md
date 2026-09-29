@@ -1,5 +1,3 @@
-# Tableau Dashboard
-
 # Bank Customer Churn Ananysis Dashboard
 
 **📌 Project Overview**
@@ -32,3 +30,9 @@ This project focuses on analyzing bank customer churn using Tableau. The dashboa
 
 **🎯 Project Objective**
 The main objective of this project is to analyze bank customer churn and identify patterns that may influence customer retention. The dashboard aims to provide meaningful insights through interactive data visualizations, helping users better understand customer behavior and churn trends.
+
+
+## Dashboard
+
+Explore the interactive Tableau-dashboard here:
+[View Dashboard](https://public.tableau.com/views/6thqusansassignment3/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
