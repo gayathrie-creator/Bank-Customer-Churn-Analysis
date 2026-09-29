@@ -1,6 +1,6 @@
 # Tableau Dashboard
 
-# 2. Bank Customer Churn Ananysis Dashboard
+# Bank Customer Churn Ananysis Dashboard
 
 **📌 Project Overview**
 
